@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+First you need to run a json server from a separate terminal, using command: `npx json-server --watch src/data/data.json --port 8000`.
+To run the application you also need to run a command: `npm install`
 
 ## Available Scripts
 
